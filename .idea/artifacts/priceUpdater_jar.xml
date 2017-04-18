@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="priceUpdater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/priceUpdater_jar</output-path>
+    <root id="archive" name="priceUpdater.jar">
+      <element id="module-output" name="priceUpdater" />
+    </root>
+  </artifact>
+</component>
